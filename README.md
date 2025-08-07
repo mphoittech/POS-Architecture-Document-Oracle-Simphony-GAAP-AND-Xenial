@@ -53,9 +53,6 @@ This project utilized a combination of architectural design, documentation, and 
     ├── diagrams/                            # Visual diagrams used in documentation
     │   ├── diagram1.png                     # POS System Integration Flow
     │   └── diagram2.png                     # Contextual Configuration Overview
-    ├── TOOLS.md                             # Tools used in the project
-    ├── OUTCOMES.md                          # Key outcomes of the architecture initiative
-    ├── OBJECTIVE.md                         # Business objective (executive version)
     └── README.md                            # Project overview, objectives, tools, outcomes, structure, contributions, Author
 
   ## 🤝 Contributions
