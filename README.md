@@ -56,7 +56,7 @@ This project utilized a combination of architectural design, documentation, and 
     ├── TOOLS.md                             # Tools used in the project
     ├── OUTCOMES.md                          # Key outcomes of the architecture initiative
     ├── OBJECTIVE.md                         # Business objective (executive version)
-    └── README.md                            # Project overview
+    └── README.md                            # Project overview, objectives, tools, outcomes, structure, contributions, Author
 
   ## 🤝 Contributions
 We welcome contributions to enhance and expand the POS Architecture Deep-Dive project. Whether you're refining documentation, improving diagrams, or adding new integration insights, your input is valuable.
