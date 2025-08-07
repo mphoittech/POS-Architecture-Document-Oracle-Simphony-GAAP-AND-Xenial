@@ -1,0 +1,2 @@
+# POS-Architecture-Document-Oracle-Simphony-GAAP-AND-Xenial
+A deep-dive into the architecture of Oracle Simphony, GAAP Unity POS, and Xenial POS systems. Includes zone configurations, enterprise-level master records, API-based data warehouse integration, and card transaction handling via Transaction Junction. Features visual diagrams and a comprehensive PDF document for operational and analytical insights.
